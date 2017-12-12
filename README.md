@@ -5,6 +5,8 @@ Introduccion a la Programacion Reactiva
 
 https://www.slideshare.net/aalmiray/introduccion-a-programacion-reactiva-82553915
 
-*Andrés Almiray*
+**Andrés Almiray**
+
 @aalmiray
-andresalmiray.com
+
+[andresalmiray.com](http://andresalmiray.com)
