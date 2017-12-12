@@ -1,4 +1,4 @@
-Introduccion a la Programacion Reactiva
+Introducción a Programación Reactiva
 ------------------------------------
 
 #### Presentación en PosaDev 2017
